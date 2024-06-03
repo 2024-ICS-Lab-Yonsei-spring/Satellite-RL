@@ -1,4 +1,4 @@
-# 🚀LEO Satellite Communicaions Using Reinforcement Learning
+# 🚀LEO Satellite Communications Using Reinforcement Learning
 
 ❤Beam Hopping Strategy for LEO Multi-beam Satellite Communications Using Reinforcement Learning
  - using PPO
